@@ -1,0 +1,8 @@
+# Ignore .npz files
+*.npz
+
+# Ignore .xml files
+*.xml
+
+# Ignore .edf files
+*.edf
