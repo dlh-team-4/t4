@@ -1,0 +1,17 @@
+{'data_path': 'D:\\nch_128_FREQ_45\\', 'model_path': 'C:\\Users\\William\\Documents\\Development\\Python projects\\Deeplearning healthcare\\Pediatric-Apnea-Detection\\nch_Transformer_model.pt', 'model_name': 'Transformer_nch_ECGSPO2', 'regression': False, 'transformer_layers': 5, 'drop_out_rate': 0.25, 'num_patches': 30, 'transformer_units': 32, 'regularization_weight': 0.001, 'num_heads': 4, 'epochs': 200, 'channels': [11, 12, 9]}
+=========================================================================== 
+[75.35971223021582] 
+[73.88535031847134] 
+[80.8362369337979] 
+[69.51672862453532] 
+[77.20465890183029] 
+[81.56030206080075] 
+[77.58508876106819] 
+Accuracy: 75.36 -+ 0.000 
+Precision: 73.89 -+ 0.000 
+Recall: 80.84 -+ 0.000 
+Specifity: 69.52 -+ 0.000 
+F1: 77.20 -+ 0.000 
+AUROC: 81.56 -+ 0.000 
+AUPRC: 77.59 -+ 0.000 
+$ 75.4 \pm 0.0$& $73.9 \pm 0.0$& $80.8 \pm 0.0$& $77.2 \pm 0.0$& $81.6 \pm 0.0$& 

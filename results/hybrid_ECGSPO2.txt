@@ -1,0 +1,17 @@
+{'data_path': 'D:\\nch_128_FREQ_45\\', 'model_path': 'C:\\Users\\William\\Documents\\Development\\Python projects\\Deeplearning healthcare\\Pediatric-Apnea-Detection\\saved_model.pt', 'model_name': 'hybrid_ECGSPO2', 'regression': False, 'transformer_layers': 5, 'drop_out_rate': 0.25, 'num_patches': 30, 'transformer_units': 32, 'regularization_weight': 0.001, 'num_heads': 4, 'epochs': 200, 'channels': [11, 12, 9]}
+=========================================================================== 
+[76.07913669064749] 
+[72.91666666666666] 
+[85.36585365853658] 
+[66.17100371747212] 
+[78.65168539325843] 
+[85.50444930896468] 
+[84.13286178284804] 
+Accuracy: 76.08 -+ 0.000 
+Precision: 72.92 -+ 0.000 
+Recall: 85.37 -+ 0.000 
+Specifity: 66.17 -+ 0.000 
+F1: 78.65 -+ 0.000 
+AUROC: 85.50 -+ 0.000 
+AUPRC: 84.13 -+ 0.000 
+$ 76.1 \pm 0.0$& $72.9 \pm 0.0$& $85.4 \pm 0.0$& $78.7 \pm 0.0$& $85.5 \pm 0.0$& 

@@ -1,0 +1,17 @@
+{'data_path': 'D:\\chat_128_FREQ_45\\', 'model_path': 'C:\\Users\\William\\Documents\\Development\\Python projects\\Deeplearning healthcare\\Pediatric-Apnea-Detection\\chat_Transformer_model.pt', 'model_name': 'Transformer_chat_ECGSPO2', 'regression': False, 'transformer_layers': 5, 'drop_out_rate': 0.25, 'num_patches': 30, 'transformer_units': 32, 'regularization_weight': 0.001, 'num_heads': 4, 'epochs': 200, 'channels': [15, 16, 13]}
+=========================================================================== 
+[83.69856222112048] 
+[83.8946117274168] 
+[83.59652585866561] 
+[83.80155409444112] 
+[83.745303539648] 
+[90.5766594638754] 
+[89.58376676435508] 
+Accuracy: 83.70 -+ 0.000 
+Precision: 83.89 -+ 0.000 
+Recall: 83.60 -+ 0.000 
+Specifity: 83.80 -+ 0.000 
+F1: 83.75 -+ 0.000 
+AUROC: 90.58 -+ 0.000 
+AUPRC: 89.58 -+ 0.000 
+$ 83.7 \pm 0.0$& $83.9 \pm 0.0$& $83.6 \pm 0.0$& $83.7 \pm 0.0$& $90.6 \pm 0.0$& 
